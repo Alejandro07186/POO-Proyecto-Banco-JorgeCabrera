@@ -16,10 +16,6 @@ Sistema bancario desarrollado en Java mediante programación orientada a objetos
 ## Evidencia de compilación y ejecución
 
 La imagen muestra los resultados de las pruebas del programa y la compilación.
-## Evidencia de compilacion y ejecucion
-
-
-
 
 
 ![Resultado de ejecucion de Main.java](evidencia.png)
