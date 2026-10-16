@@ -15,7 +15,7 @@ Sistema bancario desarrollado en Java mediante programación orientada a objetos
 
 ## Evidencia de compilación y ejecución
 
-La imagen `evidencia.png` muestra los resultados de las pruebas del programa y la compilación.
+La imagen muestra los resultados de las pruebas del programa y la compilación.
 ## Evidencia de compilacion y ejecucion
 
 
